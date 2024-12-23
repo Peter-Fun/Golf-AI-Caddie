@@ -21,7 +21,15 @@ test_sources = [
 ]
 
 requires = [
-    "openai"
+    "openai",
+    "pillow",
+    "json",
+    "base64",
+    "io",
+    "numpy",
+    "requests",
+    "typing",
+    "cv2"
 ]
 test_requires = [
     "pytest",
