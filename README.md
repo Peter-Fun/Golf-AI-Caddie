@@ -75,3 +75,5 @@ An AI golf caddie that gives you tips on how to play a hole
 
 .. _`Briefcase`: https://briefcase.readthedocs.io/
 .. _`The BeeWare Project`: https://beeware.org/
+
+[View a demonstration](demonstration.mp4)
